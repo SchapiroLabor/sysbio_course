@@ -1,0 +1,3 @@
+scimap[napari]
+setuptools<=70.0.0
+xgboost
