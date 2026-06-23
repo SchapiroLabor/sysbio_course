@@ -8,7 +8,7 @@ GitHub Repo for the phenotyping part of the SysBio course in heidelberg
 Create an environment with anaconda
 
 ```
-conda create -n scimap python==3.11
+conda create -n scimap python=3.11
 ```
 Activate the environment
 ```
