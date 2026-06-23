@@ -29,7 +29,5 @@ pip install -r requirements.txt
 ```
 For Windows/Linux
 ```
-pip install "scimap[napari]"
-pip install "setuptools<=70.0.0"
-pip install xgboost
+pip install -r req_win_linux.txt
 ```
