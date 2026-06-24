@@ -16,7 +16,7 @@ conda activate scimap
 ```
 Clone the repo
 ```
-git clone https://github.com/SchapiroLabor/phenotyping_sysbio.git
+git clone https://github.com/SchapiroLabor/phenotyping_sysbio.git](https://github.com/SchapiroLabor/sysbio_course.git
 ```
 
 
